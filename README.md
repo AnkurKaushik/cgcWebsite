@@ -79,7 +79,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <area target="" alt="Matt" title="Matt" href="http://www.soundcloud.com/swighipt/" coords="" shape="rect">
 </map>
 
-<img src="template.png" alt="Spring 2019 Power Ranking" usemap="#prmap" class="center">
+<img src="template.png" alt="Spring 2019 Power Ranking" usemap="#prmap" class="center" height="1200" width="630">
 <br>
 <img src="swog.png" alt="swog" usemap="#swigmap" height="280" width="362" class="center2">
 <style>
