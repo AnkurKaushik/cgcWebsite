@@ -76,13 +76,16 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 </map>
 
 <map name="swigmap">
-<area target="" alt="swog" title="swog" href="http://www.soundcloud.com/swighipt/" coords="280,362,0,0" shape="rect">
+<area target="" alt="tilt" title="tilt" href="tilt.htm" coords="433,211,565,370,404,500,270,345" shape="poly">
+    <area target="" alt="swog" title="swog" href="swog.htm" coords="740,362,901,223,1037,380,876,520" shape="poly">
 </map>
 
 
 <img src="template.png" alt="Spring 2019 Power Ranking" usemap="#prmap" class="center" height="630" width="1200">
 <br>
-<img src="swog.png" alt="swog" usemap="#swigmap" height="362" width="280" class="center2">
+<p class="paraStuff">Below you can see our coaching and support staff</p>
+<br>
+<img src="coachstaff.png" alt="swog" usemap="#swigmap" height="720" width="1280" class="center2">
 <style>
 .center {
   display: block;
