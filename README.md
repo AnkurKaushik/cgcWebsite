@@ -87,7 +87,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   display: block;
   margin-left: auto;
   margin-right: auto;
-  
+
 }
 </style>
 <style>
@@ -95,6 +95,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   display: block;
   margin-left: auto;
   margin-right: auto;
+
 }
 </style>
 
