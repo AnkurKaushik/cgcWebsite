@@ -81,7 +81,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 </map>
 
 
-<img src="template.png" alt="Spring 2019 Power Ranking" usemap="#prmap" class="center" height="630" width="1200">
+<img src="prposter22.png" alt="Spring 2019 Power Ranking" usemap="#prmap" class="center" height="630" width="1200">
 <br>
 <p class="paraStuff">Below you can see our coaching and support staff</p>
 <br>
